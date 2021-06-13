@@ -1,0 +1,523 @@
+2021.06.12 22:22:35.404 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 22:22:35.408 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 22:38:24.440 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 22:38:24.443 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 22:38:30.881 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.12 22:38:31.014 INFO  Model.MyModel - player was moved to row: 2  and to column: 9
+2021.06.12 22:38:39.954 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.12 22:38:39.982 INFO  Model.MyModel - player was moved to row: 9  and to column: 0
+2021.06.12 22:38:56.668 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.12 22:38:56.693 INFO  Model.MyModel - player was moved to row: 6  and to column: 9
+2021.06.12 22:39:07.499 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.12 22:39:09.920 INFO  Model.MyModel - player was moved to row: 6  and to column: 8
+2021.06.12 22:39:09.942 INFO  Model.MyModel - player moved left
+2021.06.12 22:39:10.912 INFO  Model.MyModel - player was moved to row: 5  and to column: 8
+2021.06.12 22:39:10.933 INFO  Model.MyModel - player moved back
+2021.06.12 22:39:11.279 INFO  Model.MyModel - player was moved to row: 5  and to column: 7
+2021.06.12 22:39:11.305 INFO  Model.MyModel - player moved left
+2021.06.12 22:39:11.471 INFO  Model.MyModel - player was moved to row: 5  and to column: 6
+2021.06.12 22:39:11.517 INFO  Model.MyModel - player moved left
+2021.06.12 22:39:11.643 INFO  Model.MyModel - player was moved to row: 5  and to column: 5
+2021.06.12 22:39:11.670 INFO  Model.MyModel - player moved left
+2021.06.12 22:39:12.157 INFO  Model.MyModel - player was moved to row: 6  and to column: 5
+2021.06.12 22:39:12.181 INFO  Model.MyModel - player moved forward
+2021.06.12 22:39:12.573 INFO  Model.MyModel - player was moved to row: 6  and to column: 4
+2021.06.12 22:39:12.595 INFO  Model.MyModel - player moved left
+2021.06.12 22:39:12.869 INFO  Model.MyModel - player was moved to row: 6  and to column: 3
+2021.06.12 22:39:12.911 INFO  Model.MyModel - player moved left
+2021.06.12 22:39:13.232 INFO  Model.MyModel - player was moved to row: 7  and to column: 3
+2021.06.12 22:39:13.263 INFO  Model.MyModel - player moved forward
+2021.06.12 22:39:13.423 INFO  Model.MyModel - player was moved to row: 8  and to column: 3
+2021.06.12 22:39:13.448 INFO  Model.MyModel - player moved forward
+2021.06.12 22:39:13.850 INFO  Model.MyModel - player was moved to row: 8  and to column: 2
+2021.06.12 22:39:13.881 INFO  Model.MyModel - player moved left
+2021.06.12 22:39:14.211 INFO  Model.MyModel - player was moved to row: 9  and to column: 2
+2021.06.12 22:39:14.259 INFO  Model.MyModel - player moved forward
+2021.06.12 22:39:14.832 INFO  Model.MyModel - maze solved by user
+2021.06.12 22:39:17.775 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 22:39:17.776 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 22:39:23.987 INFO  Model.MyModel - new properties were set
+2021.06.12 22:39:24.098 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 22:39:24.100 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 22:50:30.794 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 22:50:30.798 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 22:51:10.487 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 22:51:10.491 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 22:51:15.924 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.12 22:51:16.053 INFO  Model.MyModel - player was moved to row: 9  and to column: 4
+2021.06.12 22:51:18.361 INFO  Model.MyModel - player was moved to row: 8  and to column: 4
+2021.06.12 22:51:18.384 INFO  Model.MyModel - player moved back
+2021.06.12 22:51:18.716 INFO  Model.MyModel - player was moved to row: 8  and to column: 5
+2021.06.12 22:51:18.742 INFO  Model.MyModel - player moved right
+2021.06.12 22:51:19.028 INFO  Model.MyModel - player was moved to row: 8  and to column: 6
+2021.06.12 22:51:19.061 INFO  Model.MyModel - player moved right
+2021.06.12 22:51:19.273 INFO  Model.MyModel - player was moved to row: 7  and to column: 6
+2021.06.12 22:51:19.326 INFO  Model.MyModel - player moved back
+2021.06.12 22:51:19.520 INFO  Model.MyModel - player was moved to row: 6  and to column: 6
+2021.06.12 22:51:19.548 INFO  Model.MyModel - player moved back
+2021.06.12 22:51:19.663 INFO  Model.MyModel - player was moved to row: 5  and to column: 6
+2021.06.12 22:51:19.696 INFO  Model.MyModel - player moved back
+2021.06.12 22:51:20.544 INFO  Model.MyModel - player was moved to row: 5  and to column: 5
+2021.06.12 22:51:20.591 INFO  Model.MyModel - player moved left
+2021.06.12 22:51:20.683 INFO  Model.MyModel - player was moved to row: 5  and to column: 4
+2021.06.12 22:51:20.713 INFO  Model.MyModel - player moved left
+2021.06.12 22:51:20.826 INFO  Model.MyModel - player was moved to row: 5  and to column: 3
+2021.06.12 22:51:20.855 INFO  Model.MyModel - player moved left
+2021.06.12 22:51:21.074 INFO  Model.MyModel - player was moved to row: 5  and to column: 2
+2021.06.12 22:51:21.117 INFO  Model.MyModel - player moved left
+2021.06.12 22:51:21.654 INFO  Model.MyModel - player was moved to row: 4  and to column: 2
+2021.06.12 22:51:21.700 INFO  Model.MyModel - player moved back
+2021.06.12 22:51:21.922 INFO  Model.MyModel - player was moved to row: 3  and to column: 2
+2021.06.12 22:51:21.965 INFO  Model.MyModel - player moved back
+2021.06.12 22:51:22.226 INFO  Model.MyModel - player was moved to row: 3  and to column: 1
+2021.06.12 22:51:22.273 INFO  Model.MyModel - player moved left
+2021.06.12 22:51:22.454 INFO  Model.MyModel - player was moved to row: 3  and to column: 0
+2021.06.12 22:51:22.503 INFO  Model.MyModel - player moved left
+2021.06.12 22:51:23.085 INFO  Model.MyModel - maze solved by user
+2021.06.12 22:51:29.182 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 22:51:29.183 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 22:51:35.503 INFO  Model.MyModel - new properties were set
+2021.06.12 22:51:35.613 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 22:51:35.613 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 22:52:25.626 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.12 22:52:25.660 INFO  Model.MyModel - player was moved to row: 0  and to column: 0
+2021.06.12 22:52:28.555 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.12 22:52:34.604 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.12 22:52:34.627 INFO  Model.MyModel - player was moved to row: 0  and to column: 0
+2021.06.12 22:52:49.620 INFO  Model.MyModel - new properties were set
+2021.06.12 22:52:49.719 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 22:52:49.719 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 22:53:01.351 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.12 22:53:01.374 INFO  Model.MyModel - player was moved to row: 2  and to column: 9
+2021.06.12 22:57:26.463 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 22:57:26.466 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 22:57:31.852 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.12 22:57:31.999 INFO  Model.MyModel - player was moved to row: 9  and to column: 4
+2021.06.12 22:57:45.733 INFO  Model.MyModel - player was moved to row: 8  and to column: 5
+2021.06.12 22:57:45.758 INFO  Model.MyModel - player moved up right
+2021.06.12 23:05:00.066 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 23:05:00.070 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 23:05:37.337 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 23:05:37.345 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 23:07:06.508 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 23:07:06.513 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 23:55:27.558 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 23:55:27.562 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 23:55:28.748 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.12 23:55:33.041 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.12 23:55:33.180 INFO  Model.MyModel - player was moved to row: 7  and to column: 0
+2021.06.12 23:55:39.490 INFO  Model.MyModel - player was moved to row: 6  and to column: 0
+2021.06.12 23:55:39.520 INFO  Model.MyModel - player moved back
+2021.06.12 23:55:40.322 INFO  Model.MyModel - player was moved to row: 7  and to column: 0
+2021.06.12 23:55:40.350 INFO  Model.MyModel - player moved forward
+2021.06.12 23:55:40.888 INFO  Model.MyModel - player was moved to row: 7  and to column: 1
+2021.06.12 23:55:40.916 INFO  Model.MyModel - player moved right
+2021.06.12 23:55:41.269 INFO  Model.MyModel - player was moved to row: 6  and to column: 1
+2021.06.12 23:55:41.298 INFO  Model.MyModel - player moved back
+2021.06.12 23:55:42.988 INFO  Model.MyModel - player was moved to row: 6  and to column: 2
+2021.06.12 23:55:43.011 INFO  Model.MyModel - player moved right
+2021.06.12 23:55:43.187 INFO  Model.MyModel - player was moved to row: 6  and to column: 3
+2021.06.12 23:55:43.227 INFO  Model.MyModel - player moved right
+2021.06.12 23:55:43.465 INFO  Model.MyModel - player was moved to row: 6  and to column: 4
+2021.06.12 23:55:43.519 INFO  Model.MyModel - player moved right
+2021.06.12 23:55:43.998 INFO  Model.MyModel - player was moved to row: 6  and to column: 5
+2021.06.12 23:55:44.033 INFO  Model.MyModel - player moved right
+2021.06.12 23:55:44.223 INFO  Model.MyModel - player was moved to row: 7  and to column: 5
+2021.06.12 23:55:44.248 INFO  Model.MyModel - player moved forward
+2021.06.12 23:55:44.695 INFO  Model.MyModel - player was moved to row: 7  and to column: 6
+2021.06.12 23:55:44.744 INFO  Model.MyModel - player moved right
+2021.06.12 23:55:44.911 INFO  Model.MyModel - player was moved to row: 7  and to column: 7
+2021.06.12 23:55:44.963 INFO  Model.MyModel - player moved right
+2021.06.12 23:55:45.242 INFO  Model.MyModel - player was moved to row: 6  and to column: 7
+2021.06.12 23:55:45.270 INFO  Model.MyModel - player moved back
+2021.06.12 23:55:45.467 INFO  Model.MyModel - player was moved to row: 5  and to column: 7
+2021.06.12 23:55:45.514 INFO  Model.MyModel - player moved back
+2021.06.12 23:55:45.761 INFO  Model.MyModel - player was moved to row: 5  and to column: 8
+2021.06.12 23:55:45.816 INFO  Model.MyModel - player moved right
+2021.06.12 23:55:46.004 INFO  Model.MyModel - player was moved to row: 5  and to column: 9
+2021.06.12 23:55:46.053 INFO  Model.MyModel - player moved right
+2021.06.12 23:55:46.682 INFO  Model.MyModel - maze solved by user
+2021.06.12 23:55:49.645 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 23:55:49.647 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 23:55:51.108 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.12 23:55:54.526 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.12 23:55:54.551 INFO  Model.MyModel - player was moved to row: 8  and to column: 0
+2021.06.12 23:56:14.829 INFO  Model.MyModel - new properties were set
+2021.06.12 23:56:14.942 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 23:56:14.943 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.12 23:58:43.703 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.12 23:58:43.707 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 00:02:34.044 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 00:02:34.046 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 00:02:36.520 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 00:02:39.904 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 00:02:40.024 INFO  Model.MyModel - player was moved to row: 7  and to column: 9
+2021.06.13 00:02:42.722 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.13 00:02:43.790 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 got from solving maze server a solution solved by: BreadthFirstSearch
+2021.06.13 00:11:29.229 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 00:11:29.237 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 00:11:36.834 INFO  Model.MyModel - new properties were set
+2021.06.13 00:11:37.002 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 00:11:37.003 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 00:11:39.535 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 00:11:43.011 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 00:11:43.147 INFO  Model.MyModel - player was moved to row: 5  and to column: 9
+2021.06.13 00:11:46.994 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.13 00:11:48.296 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 got from solving maze server a solution solved by: BestFirstSearch
+2021.06.13 00:12:11.910 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.13 00:12:13.290 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 got from solving maze server a solution solved by: BestFirstSearch
+2021.06.13 00:12:15.961 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.13 00:12:16.994 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 got from solving maze server a solution solved by: BestFirstSearch
+2021.06.13 00:12:24.600 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 00:12:28.047 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 00:12:28.071 INFO  Model.MyModel - player was moved to row: 4  and to column: 9
+2021.06.13 00:17:07.388 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 00:17:07.391 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 00:17:15.452 INFO  Model.MyModel - new properties were set
+2021.06.13 00:17:15.604 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 00:17:15.605 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 10:24:17.069 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 10:24:17.075 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 10:24:18.455 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 10:24:22.557 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 10:24:22.723 INFO  Model.MyModel - player was moved to row: 7  and to column: 9
+2021.06.13 10:24:34.158 INFO  Model.MyModel - player was moved to row: 6  and to column: 9
+2021.06.13 10:24:34.186 INFO  Model.MyModel - player moved back
+2021.06.13 10:24:38.095 INFO  Model.MyModel - player was moved to row: 7  and to column: 9
+2021.06.13 10:24:38.119 INFO  Model.MyModel - player moved forward
+2021.06.13 10:24:38.411 INFO  Model.MyModel - player was moved to row: 6  and to column: 9
+2021.06.13 10:24:38.437 INFO  Model.MyModel - player moved back
+2021.06.13 10:24:39.838 INFO  Model.MyModel - player was moved to row: 7  and to column: 9
+2021.06.13 10:24:39.888 INFO  Model.MyModel - player moved forward
+2021.06.13 10:24:41.564 INFO  Model.MyModel - player was moved to row: 8  and to column: 9
+2021.06.13 10:24:41.589 INFO  Model.MyModel - player moved forward
+2021.06.13 10:24:43.021 INFO  Model.MyModel - player was moved to row: 8  and to column: 8
+2021.06.13 10:24:43.067 INFO  Model.MyModel - player moved left
+2021.06.13 10:24:44.369 INFO  Model.MyModel - player was moved to row: 8  and to column: 7
+2021.06.13 10:24:44.401 INFO  Model.MyModel - player moved left
+2021.06.13 10:24:45.928 INFO  Model.MyModel - player was moved to row: 7  and to column: 7
+2021.06.13 10:24:45.954 INFO  Model.MyModel - player moved back
+2021.06.13 10:24:47.008 INFO  Model.MyModel - player was moved to row: 7  and to column: 6
+2021.06.13 10:24:47.029 INFO  Model.MyModel - player moved left
+2021.06.13 10:24:47.950 INFO  Model.MyModel - player was moved to row: 6  and to column: 6
+2021.06.13 10:24:48.000 INFO  Model.MyModel - player moved back
+2021.06.13 10:24:48.292 INFO  Model.MyModel - player was moved to row: 5  and to column: 6
+2021.06.13 10:24:48.322 INFO  Model.MyModel - player moved back
+2021.06.13 10:24:49.546 INFO  Model.MyModel - player was moved to row: 4  and to column: 6
+2021.06.13 10:24:49.570 INFO  Model.MyModel - player moved back
+2021.06.13 10:24:50.906 INFO  Model.MyModel - player was moved to row: 4  and to column: 5
+2021.06.13 10:24:50.933 INFO  Model.MyModel - player moved left
+2021.06.13 10:24:51.226 INFO  Model.MyModel - player was moved to row: 3  and to column: 5
+2021.06.13 10:24:51.250 INFO  Model.MyModel - player moved back
+2021.06.13 10:24:52.781 INFO  Model.MyModel - player was moved to row: 4  and to column: 5
+2021.06.13 10:24:52.831 INFO  Model.MyModel - player moved forward
+2021.06.13 10:24:53.902 INFO  Model.MyModel - player was moved to row: 4  and to column: 4
+2021.06.13 10:24:53.930 INFO  Model.MyModel - player moved left
+2021.06.13 10:24:55.119 INFO  Model.MyModel - player was moved to row: 4  and to column: 3
+2021.06.13 10:24:55.141 INFO  Model.MyModel - player moved left
+2021.06.13 10:24:55.593 INFO  Model.MyModel - player was moved to row: 5  and to column: 3
+2021.06.13 10:24:55.619 INFO  Model.MyModel - player moved forward
+2021.06.13 10:24:55.975 INFO  Model.MyModel - player was moved to row: 5  and to column: 2
+2021.06.13 10:24:56.000 INFO  Model.MyModel - player moved left
+2021.06.13 10:24:56.170 INFO  Model.MyModel - player was moved to row: 5  and to column: 1
+2021.06.13 10:24:56.214 INFO  Model.MyModel - player moved left
+2021.06.13 10:24:56.505 INFO  Model.MyModel - player was moved to row: 6  and to column: 1
+2021.06.13 10:24:56.532 INFO  Model.MyModel - player moved forward
+2021.06.13 10:24:56.793 INFO  Model.MyModel - player was moved to row: 6  and to column: 0
+2021.06.13 10:24:56.823 INFO  Model.MyModel - player moved left
+2021.06.13 10:24:57.425 INFO  Model.MyModel - maze solved by user
+2021.06.13 10:25:03.871 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 10:25:03.872 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 10:32:14.824 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 10:32:14.826 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 10:32:19.535 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 10:32:22.955 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 10:32:23.100 INFO  Model.MyModel - player was moved to row: 17  and to column: 99
+2021.06.13 10:32:42.370 INFO  Model.MyModel - player was moved to row: 17  and to column: 98
+2021.06.13 10:32:42.404 INFO  Model.MyModel - player moved left
+2021.06.13 10:32:43.151 INFO  Model.MyModel - player was moved to row: 18  and to column: 98
+2021.06.13 10:32:43.173 INFO  Model.MyModel - player moved forward
+2021.06.13 10:32:43.657 INFO  Model.MyModel - player was moved to row: 18  and to column: 97
+2021.06.13 10:32:43.695 INFO  Model.MyModel - player moved left
+2021.06.13 10:32:44.242 INFO  Model.MyModel - player was moved to row: 18  and to column: 96
+2021.06.13 10:32:44.268 INFO  Model.MyModel - player moved left
+2021.06.13 10:32:44.600 INFO  Model.MyModel - player was moved to row: 18  and to column: 95
+2021.06.13 10:32:44.626 INFO  Model.MyModel - player moved left
+2021.06.13 10:32:44.875 INFO  Model.MyModel - player was moved to row: 18  and to column: 94
+2021.06.13 10:32:44.910 INFO  Model.MyModel - player moved left
+2021.06.13 10:32:45.119 INFO  Model.MyModel - player was moved to row: 18  and to column: 93
+2021.06.13 10:32:45.151 INFO  Model.MyModel - player moved left
+2021.06.13 10:32:45.486 INFO  Model.MyModel - player was moved to row: 19  and to column: 93
+2021.06.13 10:32:45.511 INFO  Model.MyModel - player moved forward
+2021.06.13 10:32:46.014 INFO  Model.MyModel - player was moved to row: 20  and to column: 93
+2021.06.13 10:32:46.041 INFO  Model.MyModel - player moved forward
+2021.06.13 10:32:47.094 INFO  Model.MyModel - player was moved to row: 19  and to column: 93
+2021.06.13 10:32:47.119 INFO  Model.MyModel - player moved back
+2021.06.13 10:32:47.805 INFO  Model.MyModel - player was moved to row: 18  and to column: 93
+2021.06.13 10:32:47.831 INFO  Model.MyModel - player moved back
+2021.06.13 10:32:49.477 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.13 10:32:50.639 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 got from solving maze server a solution solved by: BreadthFirstSearch
+2021.06.13 10:33:33.765 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 10:33:37.967 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 10:33:37.996 INFO  Model.MyModel - player was moved to row: 59  and to column: 99
+2021.06.13 10:33:42.147 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.13 10:33:43.606 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 got from solving maze server a solution solved by: BreadthFirstSearch
+2021.06.13 10:33:52.289 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 10:33:55.367 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 10:33:55.389 INFO  Model.MyModel - player was moved to row: 4  and to column: 0
+2021.06.13 10:34:09.301 INFO  Model.MyModel - player was moved to row: 4  and to column: 1
+2021.06.13 10:34:09.391 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:09.579 INFO  Model.MyModel - player was moved to row: 4  and to column: 2
+2021.06.13 10:34:09.634 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:10.087 INFO  Model.MyModel - player was moved to row: 5  and to column: 2
+2021.06.13 10:34:10.110 INFO  Model.MyModel - player moved forward
+2021.06.13 10:34:10.428 INFO  Model.MyModel - player was moved to row: 5  and to column: 3
+2021.06.13 10:34:10.474 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:11.252 INFO  Model.MyModel - player was moved to row: 6  and to column: 3
+2021.06.13 10:34:11.278 INFO  Model.MyModel - player moved forward
+2021.06.13 10:34:11.594 INFO  Model.MyModel - player was moved to row: 6  and to column: 4
+2021.06.13 10:34:11.627 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:12.037 INFO  Model.MyModel - player was moved to row: 7  and to column: 4
+2021.06.13 10:34:12.063 INFO  Model.MyModel - player moved forward
+2021.06.13 10:34:13.161 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.13 10:34:14.563 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 got from solving maze server a solution solved by: BreadthFirstSearch
+2021.06.13 10:34:19.248 INFO  Model.MyModel - player was moved to row: 8  and to column: 4
+2021.06.13 10:34:19.279 INFO  Model.MyModel - player moved forward
+2021.06.13 10:34:19.730 INFO  Model.MyModel - player was moved to row: 8  and to column: 5
+2021.06.13 10:34:19.755 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:20.734 INFO  Model.MyModel - player was moved to row: 8  and to column: 6
+2021.06.13 10:34:20.764 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:20.976 INFO  Model.MyModel - player was moved to row: 7  and to column: 6
+2021.06.13 10:34:21.013 INFO  Model.MyModel - player moved back
+2021.06.13 10:34:21.295 INFO  Model.MyModel - player was moved to row: 6  and to column: 6
+2021.06.13 10:34:21.321 INFO  Model.MyModel - player moved back
+2021.06.13 10:34:21.549 INFO  Model.MyModel - player was moved to row: 5  and to column: 6
+2021.06.13 10:34:21.575 INFO  Model.MyModel - player moved back
+2021.06.13 10:34:21.822 INFO  Model.MyModel - player was moved to row: 5  and to column: 7
+2021.06.13 10:34:21.847 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:22.228 INFO  Model.MyModel - player was moved to row: 4  and to column: 7
+2021.06.13 10:34:22.253 INFO  Model.MyModel - player moved back
+2021.06.13 10:34:22.530 INFO  Model.MyModel - player was moved to row: 4  and to column: 8
+2021.06.13 10:34:22.553 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:22.760 INFO  Model.MyModel - player was moved to row: 4  and to column: 9
+2021.06.13 10:34:22.803 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:22.955 INFO  Model.MyModel - player was moved to row: 4  and to column: 10
+2021.06.13 10:34:22.988 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:23.163 INFO  Model.MyModel - player was moved to row: 4  and to column: 11
+2021.06.13 10:34:23.210 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:23.335 INFO  Model.MyModel - player was moved to row: 4  and to column: 12
+2021.06.13 10:34:23.370 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:23.826 INFO  Model.MyModel - player was moved to row: 4  and to column: 13
+2021.06.13 10:34:23.850 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:23.855 INFO  Model.MyModel - player was moved to row: 4  and to column: 14
+2021.06.13 10:34:23.879 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:23.884 INFO  Model.MyModel - player was moved to row: 4  and to column: 15
+2021.06.13 10:34:23.906 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:24.552 INFO  Model.MyModel - player was moved to row: 5  and to column: 15
+2021.06.13 10:34:24.578 INFO  Model.MyModel - player moved forward
+2021.06.13 10:34:24.910 INFO  Model.MyModel - player was moved to row: 5  and to column: 16
+2021.06.13 10:34:24.936 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:25.460 INFO  Model.MyModel - player was moved to row: 5  and to column: 17
+2021.06.13 10:34:25.486 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:25.757 INFO  Model.MyModel - player was moved to row: 6  and to column: 17
+2021.06.13 10:34:25.782 INFO  Model.MyModel - player moved forward
+2021.06.13 10:34:26.111 INFO  Model.MyModel - player was moved to row: 6  and to column: 18
+2021.06.13 10:34:26.137 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:26.615 INFO  Model.MyModel - player was moved to row: 7  and to column: 18
+2021.06.13 10:34:26.639 INFO  Model.MyModel - player moved forward
+2021.06.13 10:34:26.942 INFO  Model.MyModel - player was moved to row: 7  and to column: 19
+2021.06.13 10:34:26.966 INFO  Model.MyModel - player moved right
+2021.06.13 10:34:27.525 INFO  Model.MyModel - maze solved by user
+2021.06.13 10:34:33.361 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 10:34:33.361 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 10:34:41.951 INFO  Model.MyModel - generating server stopped
+2021.06.13 10:34:41.951 INFO  Model.MyModel - solving server stopped
+2021.06.13 10:37:48.826 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 10:37:48.830 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 10:37:50.844 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 10:37:54.294 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 10:37:54.435 INFO  Model.MyModel - player was moved to row: 0  and to column: 3
+2021.06.13 10:38:49.366 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.13 10:38:50.438 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 got from solving maze server a solution solved by: BreadthFirstSearch
+2021.06.13 10:38:54.200 INFO  Model.MyModel - player was moved to row: 1  and to column: 3
+2021.06.13 10:38:54.223 INFO  Model.MyModel - player moved forward
+2021.06.13 10:38:54.528 INFO  Model.MyModel - player was moved to row: 2  and to column: 3
+2021.06.13 10:38:54.578 INFO  Model.MyModel - player moved forward
+2021.06.13 10:38:54.731 INFO  Model.MyModel - player was moved to row: 3  and to column: 3
+2021.06.13 10:38:54.761 INFO  Model.MyModel - player moved forward
+2021.06.13 10:38:55.086 INFO  Model.MyModel - player was moved to row: 3  and to column: 4
+2021.06.13 10:38:55.112 INFO  Model.MyModel - player moved right
+2021.06.13 10:38:55.377 INFO  Model.MyModel - player was moved to row: 4  and to column: 4
+2021.06.13 10:38:55.405 INFO  Model.MyModel - player moved forward
+2021.06.13 10:38:55.598 INFO  Model.MyModel - player was moved to row: 5  and to column: 4
+2021.06.13 10:38:55.625 INFO  Model.MyModel - player moved forward
+2021.06.13 10:38:55.771 INFO  Model.MyModel - player was moved to row: 6  and to column: 4
+2021.06.13 10:38:55.803 INFO  Model.MyModel - player moved forward
+2021.06.13 10:38:56.166 INFO  Model.MyModel - player was moved to row: 6  and to column: 3
+2021.06.13 10:38:56.192 INFO  Model.MyModel - player moved left
+2021.06.13 10:38:56.423 INFO  Model.MyModel - player was moved to row: 7  and to column: 3
+2021.06.13 10:38:56.449 INFO  Model.MyModel - player moved forward
+2021.06.13 10:38:56.708 INFO  Model.MyModel - player was moved to row: 7  and to column: 2
+2021.06.13 10:38:56.735 INFO  Model.MyModel - player moved left
+2021.06.13 10:38:56.925 INFO  Model.MyModel - player was moved to row: 7  and to column: 1
+2021.06.13 10:38:56.948 INFO  Model.MyModel - player moved left
+2021.06.13 10:38:57.308 INFO  Model.MyModel - player was moved to row: 7  and to column: 0
+2021.06.13 10:38:57.336 INFO  Model.MyModel - player moved left
+2021.06.13 10:38:57.916 INFO  Model.MyModel - maze solved by user
+2021.06.13 10:39:06.078 INFO  Model.MyModel - player moved down left
+2021.06.13 10:39:06.597 INFO  Model.MyModel - maze solved by user
+2021.06.13 10:39:08.707 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 10:39:08.710 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 10:39:17.598 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 10:39:21.333 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 10:39:21.361 INFO  Model.MyModel - player was moved to row: 98  and to column: 0
+2021.06.13 10:41:00.809 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 10:41:00.813 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 10:41:02.934 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 10:41:06.329 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 10:41:06.462 INFO  Model.MyModel - player was moved to row: 5  and to column: 9
+2021.06.13 10:41:14.770 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 10:41:18.151 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 10:41:18.244 INFO  Model.MyModel - player was moved to row: 76  and to column: 99
+2021.06.13 11:04:35.869 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 11:04:35.873 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 11:04:38.086 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 11:04:41.545 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 11:04:41.692 INFO  Model.MyModel - player was moved to row: 3  and to column: 9
+2021.06.13 11:05:39.415 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 11:05:39.419 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 11:05:40.110 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 11:05:43.486 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 11:05:43.611 INFO  Model.MyModel - player was moved to row: 6  and to column: 0
+2021.06.13 11:07:53.563 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 11:07:53.566 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 11:07:56.719 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 11:08:00.959 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 11:08:01.096 INFO  Model.MyModel - player was moved to row: 0  and to column: 3
+2021.06.13 11:15:21.727 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 11:15:21.733 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 11:15:22.883 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 11:15:27.110 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 11:15:27.234 INFO  Model.MyModel - player was moved to row: 5  and to column: 9
+2021.06.13 11:16:03.510 INFO  Model.MyModel - player was moved to row: 6  and to column: 9
+2021.06.13 11:16:03.537 INFO  Model.MyModel - player moved forward
+2021.06.13 11:16:03.949 INFO  Model.MyModel - player was moved to row: 6  and to column: 8
+2021.06.13 11:16:03.975 INFO  Model.MyModel - player moved left
+2021.06.13 11:16:04.158 INFO  Model.MyModel - player was moved to row: 6  and to column: 7
+2021.06.13 11:16:04.206 INFO  Model.MyModel - player moved left
+2021.06.13 11:16:18.741 INFO  Model.MyModel - player was moved to row: 5  and to column: 7
+2021.06.13 11:16:18.767 INFO  Model.MyModel - player moved back
+2021.06.13 11:16:41.419 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.13 11:16:42.809 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 got from solving maze server a solution solved by: BreadthFirstSearch
+2021.06.13 11:19:40.248 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 11:19:40.251 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 11:19:42.275 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 11:19:45.660 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 11:19:45.786 INFO  Model.MyModel - player was moved to row: 1  and to column: 0
+2021.06.13 11:21:15.082 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 11:21:15.086 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 11:21:15.971 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 11:21:19.360 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 11:21:19.488 INFO  Model.MyModel - player was moved to row: 7  and to column: 9
+2021.06.13 11:21:31.992 INFO  Model.MyModel - player was moved to row: 8  and to column: 9
+2021.06.13 11:21:32.041 INFO  Model.MyModel - player moved forward
+2021.06.13 11:21:35.019 INFO  Model.MyModel - player was moved to row: 8  and to column: 8
+2021.06.13 11:21:35.046 INFO  Model.MyModel - player moved left
+2021.06.13 11:21:36.254 INFO  Model.MyModel - player was moved to row: 7  and to column: 8
+2021.06.13 11:21:36.288 INFO  Model.MyModel - player moved back
+2021.06.13 11:21:38.529 INFO  Model.MyModel - player was moved to row: 6  and to column: 8
+2021.06.13 11:21:38.555 INFO  Model.MyModel - player moved back
+2021.06.13 11:21:40.635 INFO  Model.MyModel - player was moved to row: 5  and to column: 8
+2021.06.13 11:21:40.660 INFO  Model.MyModel - player moved back
+2021.06.13 11:21:50.353 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 11:21:54.373 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 11:21:54.401 INFO  Model.MyModel - player was moved to row: 22  and to column: 99
+2021.06.13 11:22:20.796 INFO  Model.MyModel - player was moved to row: 22  and to column: 98
+2021.06.13 11:22:20.822 INFO  Model.MyModel - player moved left
+2021.06.13 11:22:22.724 INFO  Model.MyModel - player was moved to row: 23  and to column: 98
+2021.06.13 11:22:22.748 INFO  Model.MyModel - player moved forward
+2021.06.13 11:22:23.124 INFO  Model.MyModel - player was moved to row: 23  and to column: 97
+2021.06.13 11:22:23.149 INFO  Model.MyModel - player moved left
+2021.06.13 11:22:43.758 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 11:22:47.379 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 11:22:47.402 INFO  Model.MyModel - player was moved to row: 2  and to column: 4
+2021.06.13 11:22:53.436 INFO  Model.MyModel - player was moved to row: 1  and to column: 4
+2021.06.13 11:22:53.461 INFO  Model.MyModel - player moved back
+2021.06.13 11:22:54.094 INFO  Model.MyModel - player was moved to row: 1  and to column: 3
+2021.06.13 11:22:54.119 INFO  Model.MyModel - player moved left
+2021.06.13 11:22:54.318 INFO  Model.MyModel - player was moved to row: 1  and to column: 2
+2021.06.13 11:22:54.349 INFO  Model.MyModel - player moved left
+2021.06.13 11:22:54.529 INFO  Model.MyModel - player was moved to row: 1  and to column: 1
+2021.06.13 11:22:54.555 INFO  Model.MyModel - player moved left
+2021.06.13 11:22:54.893 INFO  Model.MyModel - player was moved to row: 1  and to column: 0
+2021.06.13 11:22:54.921 INFO  Model.MyModel - player moved left
+2021.06.13 11:22:55.492 INFO  Model.MyModel - maze solved by user
+2021.06.13 11:23:00.624 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 11:23:00.625 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 11:29:24.323 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 11:29:24.326 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 11:29:25.313 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 11:29:28.690 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 11:29:28.814 INFO  Model.MyModel - player was moved to row: 5  and to column: 0
+2021.06.13 11:29:33.931 INFO  Model.MyModel - player was moved to row: 5  and to column: 1
+2021.06.13 11:29:33.955 INFO  Model.MyModel - player moved right
+2021.06.13 11:29:34.237 INFO  Model.MyModel - player was moved to row: 5  and to column: 2
+2021.06.13 11:29:34.269 INFO  Model.MyModel - player moved right
+2021.06.13 11:29:34.455 INFO  Model.MyModel - player was moved to row: 5  and to column: 3
+2021.06.13 11:29:34.485 INFO  Model.MyModel - player moved right
+2021.06.13 11:29:34.758 INFO  Model.MyModel - player was moved to row: 5  and to column: 4
+2021.06.13 11:29:34.786 INFO  Model.MyModel - player moved right
+2021.06.13 11:29:34.988 INFO  Model.MyModel - player was moved to row: 6  and to column: 4
+2021.06.13 11:29:35.018 INFO  Model.MyModel - player moved forward
+2021.06.13 11:29:35.332 INFO  Model.MyModel - player was moved to row: 6  and to column: 5
+2021.06.13 11:29:35.359 INFO  Model.MyModel - player moved right
+2021.06.13 11:29:35.534 INFO  Model.MyModel - player was moved to row: 6  and to column: 6
+2021.06.13 11:29:35.579 INFO  Model.MyModel - player moved right
+2021.06.13 11:29:35.791 INFO  Model.MyModel - player was moved to row: 7  and to column: 6
+2021.06.13 11:29:35.816 INFO  Model.MyModel - player moved forward
+2021.06.13 11:29:36.107 INFO  Model.MyModel - player was moved to row: 7  and to column: 7
+2021.06.13 11:29:36.134 INFO  Model.MyModel - player moved right
+2021.06.13 11:29:36.305 INFO  Model.MyModel - player was moved to row: 7  and to column: 8
+2021.06.13 11:29:36.335 INFO  Model.MyModel - player moved right
+2021.06.13 11:29:36.625 INFO  Model.MyModel - player was moved to row: 6  and to column: 8
+2021.06.13 11:29:36.655 INFO  Model.MyModel - player moved back
+2021.06.13 11:29:37.013 INFO  Model.MyModel - player was moved to row: 6  and to column: 9
+2021.06.13 11:29:37.045 INFO  Model.MyModel - player moved right
+2021.06.13 11:29:37.637 INFO  Model.MyModel - maze solved by user
+2021.06.13 11:29:43.920 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 11:29:43.920 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 11:29:45.271 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.13 11:29:48.662 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 11:29:48.688 INFO  Model.MyModel - player was moved to row: 1  and to column: 9
+2021.06.13 11:29:52.515 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to solving server...
+2021.06.13 11:29:53.734 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 got from solving maze server a solution solved by: BreadthFirstSearch
+2021.06.13 19:31:04.924 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.13 19:31:04.928 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.13 19:31:06.688 INFO  Model.MyModel - user at: Shahaf/192.168.14.24 connected to generating server...
+2021.06.13 19:31:11.194 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.13 19:31:11.340 INFO  Model.MyModel - player was moved to row: 2  and to column: 9
+2021.06.13 19:31:14.368 INFO  Model.MyModel - player was moved to row: 3  and to column: 9
+2021.06.13 19:31:14.393 INFO  Model.MyModel - player moved forward
+2021.06.13 19:31:21.596 INFO  Model.MyModel - player was moved to row: 3  and to column: 8
+2021.06.13 19:31:21.650 INFO  Model.MyModel - player moved left
+2021.06.13 19:31:21.793 INFO  Model.MyModel - player was moved to row: 3  and to column: 7
+2021.06.13 19:31:21.823 INFO  Model.MyModel - player moved left
+2021.06.13 19:31:21.951 INFO  Model.MyModel - player was moved to row: 3  and to column: 6
+2021.06.13 19:31:21.984 INFO  Model.MyModel - player moved left
+2021.06.13 19:31:22.116 INFO  Model.MyModel - player was moved to row: 3  and to column: 5
+2021.06.13 19:31:22.146 INFO  Model.MyModel - player moved left
+2021.06.13 19:31:22.292 INFO  Model.MyModel - player was moved to row: 3  and to column: 4
+2021.06.13 19:31:22.345 INFO  Model.MyModel - player moved left
+2021.06.13 19:31:22.502 INFO  Model.MyModel - player was moved to row: 2  and to column: 4
+2021.06.13 19:31:22.525 INFO  Model.MyModel - player moved back
+2021.06.13 19:31:22.732 INFO  Model.MyModel - player was moved to row: 1  and to column: 4
+2021.06.13 19:31:22.760 INFO  Model.MyModel - player moved back
+2021.06.13 19:31:22.908 INFO  Model.MyModel - player was moved to row: 1  and to column: 3
+2021.06.13 19:31:22.937 INFO  Model.MyModel - player moved left
+2021.06.13 19:31:23.078 INFO  Model.MyModel - player was moved to row: 1  and to column: 2
+2021.06.13 19:31:23.129 INFO  Model.MyModel - player moved left
+2021.06.13 19:31:23.393 INFO  Model.MyModel - player was moved to row: 1  and to column: 1
+2021.06.13 19:31:23.441 INFO  Model.MyModel - player moved left
+2021.06.13 19:31:23.568 INFO  Model.MyModel - player was moved to row: 1  and to column: 0
+2021.06.13 19:31:23.608 INFO  Model.MyModel - player moved left
+2021.06.13 19:31:24.255 INFO  Model.MyModel - maze solved by user
