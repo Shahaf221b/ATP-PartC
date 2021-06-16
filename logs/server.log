@@ -521,3 +521,14 @@
 2021.06.13 19:31:23.568 INFO  Model.MyModel - player was moved to row: 1  and to column: 0
 2021.06.13 19:31:23.608 INFO  Model.MyModel - player moved left
 2021.06.13 19:31:24.255 INFO  Model.MyModel - maze solved by user
+2021.06.16 22:46:42.245 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.16 22:46:42.249 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.16 22:46:43.052 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.16 22:46:46.555 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.16 22:46:46.706 INFO  Model.MyModel - player was moved to row: 6  and to column: 0
+2021.06.16 22:46:52.859 INFO  Model.MyModel - new properties were set
+2021.06.16 22:46:53.029 INFO  Model.MyModel - solving server started at port : 5401
+2021.06.16 22:46:53.030 INFO  Model.MyModel - generating server started at port : 5400
+2021.06.16 22:46:54.724 INFO  Model.MyModel - user at: DESKTOP-EUTKSNG/192.168.14.126 connected to generating server...
+2021.06.16 22:46:58.161 INFO  Model.MyModel - maze was generated with: MyMazeGenerator algorithm
+2021.06.16 22:46:58.192 INFO  Model.MyModel - player was moved to row: 1  and to column: 0

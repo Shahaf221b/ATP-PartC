@@ -83,8 +83,11 @@ public class MyViewController extends Observable implements Initializable, Obser
         solveMazeButton.setDisable(false);
         fileSave.setDisable(false);
 
-        soundON();
+        if(!isSound){
+            soundON();
+        }
         soundButton.setDisable(false);
+
     }
 
     public void getAbout(ActionEvent actionEvent) {
@@ -201,6 +204,7 @@ public class MyViewController extends Observable implements Initializable, Obser
 
     private void propSetSucceed() {
         propStage.close();
+        stopSound();
         retry();
         Alert a = new Alert(Alert.AlertType.INFORMATION);
         a.setHeaderText("new properties were saved");
@@ -210,6 +214,7 @@ public class MyViewController extends Observable implements Initializable, Obser
 
     private void propSetFailed() {
         propStage.close();
+        stopSound();
         retry();
         Alert a = new Alert(Alert.AlertType.ERROR);
         a.setHeaderText("new properties were not saved!\nTry again.");
@@ -331,6 +336,11 @@ public class MyViewController extends Observable implements Initializable, Obser
                 return;
             }
             mazeDisplayer.drawGame(viewModel.getGame());
+            solveMazeButton.setDisable(false);
+            fileSave.setDisable(false);
+
+            soundON();
+            soundButton.setDisable(false);
         });
 
     }
@@ -447,6 +457,13 @@ public class MyViewController extends Observable implements Initializable, Obser
             soundButton.setText("Sound Off");
         }
 
+    }
+
+    public void stopSound() {
+        if(isSound){
+            mediaView.getMediaPlayer().stop();
+            isSound=false;
+        }
     }
 
 

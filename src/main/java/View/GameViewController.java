@@ -25,7 +25,7 @@ public class GameViewController implements Initializable, Observer{
 
     private static Stage curStage;
 
-    private void stageSizeChageListener(Stage stage) {
+/*    private void stageSizeChageListener(Stage stage) {
         stage.widthProperty().addListener(new ChangeListener<Number>() {
             @Override
             public void changed(ObservableValue<? extends Number> observable, Number oldValue, Number newValue) {
@@ -39,7 +39,7 @@ public class GameViewController implements Initializable, Observer{
                 System.out.println("Height changed!!");
             }
         });
-    }
+    }*/
 
 
     @Override
@@ -74,6 +74,7 @@ public class GameViewController implements Initializable, Observer{
 
 
         FXMLLoader fxmlLoader = new FXMLLoader(getClass().getClassLoader().getResource("MazeView.fxml"));
+
         Parent root1 = (Parent) fxmlLoader.load();
         Stage stage = new Stage();
         curStage = stage;
@@ -87,5 +88,6 @@ public class GameViewController implements Initializable, Observer{
         MyViewController view = fxmlLoader.getController();
         view.setViewModel(viewModel);
         view.addObserver(this);
+
 
     }}

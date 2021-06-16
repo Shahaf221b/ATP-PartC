@@ -17,8 +17,8 @@
 <?import javafx.scene.media.MediaView?>
 
 <?import View.*?>
-<ScrollPane fx:id="scrollPane"  prefHeight="408.0" prefWidth="594.0" stylesheets="@MainStyle.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.MyViewController">
-    <BorderPane onMouseClicked="#mouseClicked" onMouseDragged="#mouseDragged" onMousePressed="#mousePressed" onScroll="#zooming">
+<ScrollPane fx:id="scrollPane"  onMouseClicked="#mouseClicked"  prefHeight="408.0" prefWidth="594.0" stylesheets="@MainStyle.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.MyViewController">
+    <BorderPane  onScroll="#zooming" onMouseDragged="#mouseDragged" onMousePressed="#mousePressed">
     <left>
         <VBox prefHeight="200.0" prefWidth="178.0" spacing="5.0" BorderPane.alignment="CENTER">
             <children>

@@ -33,10 +33,13 @@ public class MyModel extends Observable implements IModel {
     private Server solveSearchProblemServer;
     private final Logger LOG = LogManager.getLogger();
 
+
     private final int generatePort = 5400;
     private final int solvePort = 5401;
 
     public MyModel() {
+
+        //Configurations.setPath("resources/config.properties");
         createServer();
     }
 
@@ -63,7 +66,7 @@ public class MyModel extends Observable implements IModel {
 
     @Override
     public void createGame(int rows, int cols) {
-        //LOG.debug("testing..............");
+        LOG.debug("testing..............");
         generateFromServer(rows, cols);
         if (this.maze != null) {
             setChanged();
@@ -92,10 +95,19 @@ public class MyModel extends Observable implements IModel {
                         is.read(decompressedMaze); //Fill decompressedMaze with bytes
                         maze = new Maze(decompressedMaze);
                         Properties prop = Configurations.getInstance();
+
+/*                        InputStream istream = getClass().getResourceAsStream("./resources/config.properties");
+                        Properties prop = new Properties();
+                        try {
+                            prop.load(istream);
+                            istream.close();
+                        }
+                        catch (Exception e) {}*/
+
                         LOG.info("maze was generated with: " +prop.getProperty("mazeGeneratingAlgorithm")+" algorithm");
 
                     } catch (Exception e) {
-                        e.getMessage();
+                        LOG.error(e.getMessage());
                     }
                 }
             });
@@ -103,7 +115,7 @@ public class MyModel extends Observable implements IModel {
             client.communicateWithServer();
 
         } catch (Exception e) {
-            e.printStackTrace();
+            LOG.error(e.getMessage());
         }
     }
 
@@ -154,7 +166,7 @@ public class MyModel extends Observable implements IModel {
                 if (playerRow > 0 && playerCol < maze.getColumns() - 1 && maze.getCellValue(new Position(playerRow, playerCol + 1)) == 0)
                     movePlayer(playerRow - 1, playerCol + 1);
                     notifyObservers("player moved up right");
-                LOG.info("player moved up right");
+               LOG.info("player moved up right");
             }
             case BACK_LEFT -> {
                 if (playerCol > 0 && playerRow < maze.getRows() - 1 && maze.getCellValue(new Position(playerRow, playerCol + 1)) == 0)
@@ -213,7 +225,7 @@ public class MyModel extends Observable implements IModel {
                         Properties prop = Configurations.getInstance();
                         LOG.info("user at: "+InetAddress.getLocalHost()+ " got from solving maze server a solution solved by: " +prop.getProperty("mazeSearchingAlgorithm"));
                     } catch (Exception e) {
-                        e.printStackTrace();
+                        LOG.error(e.getMessage());
                     }
                 }
             });
@@ -221,7 +233,7 @@ public class MyModel extends Observable implements IModel {
             client.communicateWithServer();
 
         } catch (Exception e) {
-            e.printStackTrace();
+            LOG.error(e.getMessage());
         }
 
         setChanged();

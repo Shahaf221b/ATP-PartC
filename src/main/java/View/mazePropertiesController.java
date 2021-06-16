@@ -45,10 +45,11 @@ public class mazePropertiesController extends Observable implements Initializabl
 
     public void setProperties(ActionEvent actionEvent) {
 
+
         Properties prop = Configurations.getInstance();
         String poolSize, mazeGeneratingAlgorithm, mazeSearchingAlgorithm;
         poolSize = textField_poolSize.getText();
-        if(poolSize==null){
+        if(poolSize==null ){
             poolSize = prop.getProperty("threadPoolSize");
         }
         mazeGeneratingAlgorithm = (String) mazeGeneratingAlgoritmMenu.getValue();
