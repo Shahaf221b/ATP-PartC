@@ -149,9 +149,7 @@ public class MyViewController extends Observable implements Initializable, Obser
     public void mouseClicked(MouseEvent mouseEvent) {
         mazeDisplayer.requestFocus();
 
-//        Media sound = new Media(new File("resources/Audio/Californication.mp3").toURI().toString());     // For example
-//        MediaPlayer mediaPlayer = new MediaPlayer(sound);
-//        mediaPlayer.play();
+
 
 
     }
@@ -275,16 +273,6 @@ public class MyViewController extends Observable implements Initializable, Obser
     }
 
 
-/*    private void goalReached() {
-        String musicFile = "./resources/Audio/SpongebobHooray.mp3";
-
-        //String musicFile ="resources/Audio/Californication.mp3";
-        Media sound = new Media(new File(musicFile).toURI().toString());
-        MediaPlayer mediaPlayer = new MediaPlayer(sound);
-
-        mediaPlayer.setAutoPlay(true);
-        mediaPlayer.play();
-    }*/
 
 
     public void saveMaze(ActionEvent actionEvent) {

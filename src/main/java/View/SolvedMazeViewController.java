@@ -75,12 +75,6 @@ public class SolvedMazeViewController extends Observable implements Initializabl
 
     }
 
-    private void playMusic(){
-
-        Media sound = new Media(getClass().getResource("..\\\\..\\\\..\\\\Californication.mp3").toExternalForm());
-        MediaPlayer mediaPlayer = new MediaPlayer(sound);
-        mediaPlayer.play();
-    }
 
     public void retryMaze(ActionEvent actionEvent) {
         soundOn=false;
