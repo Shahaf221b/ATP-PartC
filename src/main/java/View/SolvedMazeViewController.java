@@ -42,7 +42,7 @@ public class SolvedMazeViewController extends Observable implements Initializabl
 
 
     private void goalReached() {
-        String musicFile = "./resources/Audio/SpongebobHooray.mp3";
+        String musicFile = "src/main/resources/Audio/SpongebobHooray.mp3";
 
         //String musicFile ="resources/Audio/Californication.mp3";
         Media sound = new Media(new File(musicFile).toURI().toString());

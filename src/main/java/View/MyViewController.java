@@ -423,7 +423,7 @@ public class MyViewController extends Observable implements Initializable, Obser
 
     private void soundON() {
 
-        String musicFile ="resources/Audio/backgroundMusic.mp3";
+        String musicFile ="src/main/resources/Audio/backgroundMusic.mp3";
         Media sound = new Media(new File(musicFile).toURI().toString());
         MediaPlayer mediaPlayer = new MediaPlayer(sound);
 
