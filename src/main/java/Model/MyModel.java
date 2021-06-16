@@ -320,9 +320,6 @@ public class MyModel extends Observable implements IModel {
             return;
         }
 
-/*        mazeGeneratingServer = new Server(generatePort, 1000, new ServerStrategyGenerateMaze());
-        solveSearchProblemServer = new Server(solvePort, 1000, new ServerStrategySolveSearchProblem());
-*/
         solveSearchProblemServer.restartServer();
         mazeGeneratingServer.restartServer();
 
